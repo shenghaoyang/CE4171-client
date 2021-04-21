@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IOT Offload Demo</string>
+    <string name="button_record">Record</string>
+    <string name="button_play">Play</string>
+    <string name="record_activity_title">Recording Audio…</string>
+    <string name="preview_activity_title">Preview recording</string>
+    <string name="button_infer">Upload and Infer</string>
+    <string name="label_title">You said:</string>
+    <string name="result_activity_title">You said…</string>
+    <string name="retrain_question">Suggest a different word:</string>
+    <string name="retrain_button">Submit</string>
+    <string name="dl_server_uri">dns://10.0.2.2:55221</string>
+</resources>
