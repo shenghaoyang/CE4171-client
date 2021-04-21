@@ -16,7 +16,9 @@ of the deep learning server.
 ## Quickstart
 
 1. Edit the string resource ``dl_server_uri`` to point to the address of the
-deep learning server, e.g. ``dns://my.address:5511``.
+deep learning server, e.g. ``dns:///my.address:5511``.
+
+1. Start the deep learning server.
 
 2. Start the application and hit the record button!
 

@@ -9,5 +9,5 @@
     <string name="result_activity_title">You said…</string>
     <string name="retrain_question">Suggest a different word:</string>
     <string name="retrain_button">Submit</string>
-    <string name="dl_server_uri">dns://10.0.2.2:55221</string>
+    <string name="dl_server_uri">dns:///10.0.2.2:55221</string>
 </resources>
